@@ -41,3 +41,9 @@ $ python3 main.py
 <center>
 <img src="img/usermenu.png" width="50%">
 </center>
+
+## 주요 기능 
+- 3 My wall 내 담벼락 가서 내 글 쓰기할 수 있음
+- 2 Newsfeed 뉴스피드에 들어가면 내가 팔로한 사람들의 포스팅을 모두 볼 수 있음
+- 4 Explore 기능을 통해 다른 사람의 담벼락을 둘럽
+- 
