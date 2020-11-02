@@ -23,13 +23,21 @@ $ python3 main.py
 ```
 
 ## 메인 메뉴
-<img src="img/main.png">
+<center>
+<img src="img/main.png" width="50%">
+</center>
 
 ## 2→ 회원가입(Sign Up)
-<img src="img/sign_up.png">
+<center>
+<img src="img/sign_up.png" width="50%">
+</center>
 
 ## 1 → 로그인(Sign In)
-<img src="img/sign_in.png">
+<center>
+<img src="img/sign_in.png" width="50%">
+</center>
 
 ## 로그인 후 유저메뉴
-<img src="img/usermenu.png">
+<center>
+<img src="img/usermenu.png" width="50%">
+</center>
